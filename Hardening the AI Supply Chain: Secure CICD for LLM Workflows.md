@@ -90,8 +90,8 @@ cosign verify my-ai-image:latest
 # 4. Security as a Performance Metric
 For the 2026 systems architect, security isn't "check-the-box", it's a performance metric that:
 
-✅ Reduces Downtime from Breach
-✅ Lowers Compliance Friction
-✅ Ensures Model Sovereignty
+- Reduces Downtime from Breach
+- Lowers Compliance Friction
+- Ensures Model Sovereignty
 
 🔗 Related Standards: NIST AI RMF | SLSA Framework.
