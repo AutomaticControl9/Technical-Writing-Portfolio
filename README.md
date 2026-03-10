@@ -17,9 +17,25 @@ This repository serves as a live showroom for my technical writing methodology. 
 
 
 
+## 📂 Featured Case Studies & Deep-Dives
+
+### 1. Hardening the AI Supply Chain: Secure CI/CD for LLMs
+* **Focus Area**
+  - DevSecOps Implementation Guide
+  - API key leakage and unverified model deployments in AI pipelines.
+  - Implementing OIDC Identity Federation and Multi-stage Docker hardening.
+  - GitHub Actions, OIDC, Container Security, SLSA Framework.
+
+[Read Full Sample →](https://github.com/AutomaticControl9/Technical-Writing-Portfolio/blob/main/Hardening%20the%20AI%20Supply%20Chain:%20Secure%20CICD%20for%20LLM%20Workflows.md)
 
 
+### 2. GRC Security Writing Portfolio
+**Focus Areas**: 
+- Securing the Software-Defined Network
+- Automation as Infrastructure Risk
+- Architectural Security in AI Data Engines
 
+[Read Full Sample →](https://github.com/AutomaticControl9/GRC-Security-Writing-Portfolio)
 
 
 
