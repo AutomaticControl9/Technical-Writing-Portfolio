@@ -94,4 +94,4 @@ For the 2026 systems architect, security isn't "check-the-box", it's a performan
 ✅ Lowers Compliance Friction
 ✅ Ensures Model Sovereignty
 
-🔗 Related Standards: NIST AI RMF | SLSA Framework
+🔗 Related Standards: NIST AI RMF | SLSA Framework.
